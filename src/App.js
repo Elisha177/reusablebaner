@@ -1,5 +1,7 @@
 import './App.css'
 
+import BannerCardItem from './components/BannerCardItem'
+
 const bannerCardsList = [
   {
     id: 1,
